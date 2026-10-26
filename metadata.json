@@ -1,0 +1,6 @@
+{
+  "name": "سامانه احراز هویت حقوقی",
+  "description": "سامانه مدیریت و گزارش‌دهی فرآیند احراز هویت کاربران حقوقی تیم پشتیبانی والکس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
